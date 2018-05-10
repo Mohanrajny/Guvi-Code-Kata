@@ -1,3 +1,4 @@
+n=int(input())
 arr=[int(x) for x in input().split()]
 dup=[]
 for i in range(0,len(arr)):
